@@ -1,0 +1,12 @@
+com\petshop\PetshopApplicationTests.class
+com\petshop\service\InventoryServiceTest.class
+com\petshop\controller\ApiV1TransactionsControllerTest.class
+com\petshop\service\TransactionServiceTest.class
+com\petshop\controller\ApiV1ServicesControllerTest.class
+com\petshop\controller\ApiV1CustomerAddressControllerTest.class
+com\petshop\service\PetCategoryServiceTest.class
+com\petshop\controller\ApiV1InventoryControllerTest.class
+com\petshop\service\PetServiceTest.class
+com\petshop\controller\AuthControllerTest.class
+com\petshop\service\ServiceManagerTest.class
+com\petshop\service\CustomerServiceTest.class
